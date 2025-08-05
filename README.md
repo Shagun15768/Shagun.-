@@ -29,6 +29,6 @@
 
 ---
 
-### 🔗 Connect with Me:https://www.linkedin.com/in/shagun-phogat-422300301
+### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAMEhttps://www.linkedin.com/in/shagun-phogat-422300301/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahagunphogat@3gmail.com)
