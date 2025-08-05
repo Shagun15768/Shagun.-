@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Stats:
 
-![Shagun15768 GitHub stats](https://github-readme-stats.vercel.app/api?username=shagunphogat&show_icons=true&theme=tokyonight)
+![Shagun15768 GitHub stats](https://github-readme-stats.vercel.app/api?username=shagun15768&show_icons=true&theme=tokyonight)
 
 ---
 
